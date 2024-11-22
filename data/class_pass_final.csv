@@ -1,0 +1,324 @@
+tags,pilates,name,location,avg_rating,num_ratings,meditation,cycling,outdoors,personal training,rowing,boxing,dance,sports recovery,low-impact training,strength training,prenatal,running,gym time,swimming,barre,aerial,stretching,yoga
+"['pilates', 'strength training']",1,BLOK,"Hearn St, London",4.8,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'strength training']",0,Mission E1,"7-9 Fashion Street, London",4.9,20000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['strength training', 'pilates']",1,BLOK,"The Tram Depot, 38-40 Upper Clapton Rd, London",4.8,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['cycling', 'yoga']",0,3Tribes - Crouch End,"71 Crouch End Hill, London",4.9,30000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'boxing']",0,1Rebel,"9 Holles Street, London",4.8,30000,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,1Rebel,"45 Phillimore Walk, London",4.8,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['strength training', 'pilates']",1,Victus Soul,"Mansell St, 90, London",4.9,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,1Rebel,"34 Porchester Rd, London",4.8,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,1Rebel,"407 St John Street, London",4.9,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,1Rebel,"47-51, St John's High Street, London",4.8,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'barre']",1,Willow LDN,"135 Northcote Road, London",4.9,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['strength training', 'pilates']",1,Train Yard,"20 Lendal Terrace, London",4.9,25000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,1Rebel,"1Rebel Holborn, Unit 4, The Post Building, Museum Street, London",4.9,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Yogahome,"14 Allen Rd, Stoke Newington, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'strength training']",1,1Rebel,"Broadgate Cir, London",4.8,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Yogarise,"133 Rye Ln, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Pilates Circuit,"63 Wandsworth High Street, London",4.9,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'cycling']",1,1Rebel,"Nova South, 5 Allington Street, London",4.8,30000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'strength training']",0,Waking Dreams,"6A-B Ada St, London",4.8,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+['pilates'],1,Pilates Circuit,"4 Fulham High St, London, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'prenatal']",1,Avalon Pilates,"Unit 2, 40-48 Bromells Road, London",4.9,12500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"['strength training', 'cycling']",0,RUMBLE,"Ground Floor, Labyrinth Tower, Dalston Square Dalston, London",4.8,30000,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,Training Points Fitness and Therapy,"5-6 Cooper's Yard, London",4.9,17500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['cycling', 'pilates']",1,Psycle,"76 Mortimer Street, London",4.8,30000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+['pilates'],1,Pilates Circuit,"Barry House 20-22 Worple Road, London",4.9,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['barre', 'pilates']",1,Barrecore,"501A Old York Rd, London",4.9,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+['pilates'],1,Pilates Circuit,"25 Mossop Street, London",4.9,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Yoga House,"2-3 Winslade Way Catford Shopping Centre, London",4.9,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,Basic Space,"5A Priory Grove, London",4.9,17500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['barre', 'pilates']",1,Barrecore,"12 Chepstow Rd, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['yoga', 'barre']",0,Oru Space,"20 – 22 Lordship Ln, London",4.9,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"['pilates', 'yoga']",1,3Tribes - Borough,"Unit 1 Brandon House, 180 Borough High Street, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,The Hot Spot Yoga,"25 Heathman's Rd, Ground Floor Studio, London",4.8,25000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'rowing']",0,Milo and the Bull,"62-64 St John's Hill, Battersea, London",4.9,30000,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['cycling', 'yoga']",0,Psycle,"17-23 Whitby St, London",4.8,30000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,triyoga,"57 Jamestown Rd, London",4.7,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'strength training']",1,Tempo 301 | SE17,"Tempo 301, Unit H4.R8 2 Ash Avenue, London",4.9,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['barre', 'pilates']",1,LIM Studio,"114 Highbury Park, London",4.9,22500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['yoga', 'strength training']",0,The Refinery,"14 Collent St, London",4.7,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['barre', 'pilates']",1,Barrecore,"Barrecore Chelsea, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['barre', 'low-impact training']",0,Paola's BodyBarre,"2 Fulham High Street, Fulham, London",4.8,30000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+"['barre', 'pilates']",1,Barrecore,"7 Pond St, London",4.8,27500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['pilates', 'strength training']",1,Studio Fix,"Kensington High Street, Studio Fix, London",4.9,5000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,triyoga,"10 Cygnet St, London",4.7,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,Samya Studios,"Cobble Lane, London",4.9,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['barre', 'pilates']",1,Barrecore,"50 St Mary Axe, London",4.9,17500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+['pilates'],1,Haus Of Pilates LDN,"567 Fulham Road, 2nd Floor, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['barre', 'pilates']",1,Barrecore,"6 Cavendish Square, Lower Ground Floor, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['yoga', 'pilates']",1,Hwyl Studio,"Unit 114, 183A Anerley Road, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,triyoga,"372 King's Rd, London",4.7,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,ONE LDN (Imperial Wharf),"The Blvd, London",4.8,25000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+['pilates'],1,X2 Pilates,"Unit 7 Stephendale Yard, Fulham, London",4.8,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'running']",1,STRONG Pilates,"68 Pentonville Road, London",4.9,7500,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+['pilates'],1,Kore Gallery,"32 Commercial road, London",4.9,27500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'barre']",1,FLOW LDN,"11 Tottenham Street, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+['pilates'],1,Broadway Pilates,"36 Broadway Market, London",4.8,25000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['swimming', 'gym time']",0,Fitness First,"179A Tottenham Court Road, London",4.8,22500,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"['barre', 'pilates']",1,Barrecore,"90 Upper Street, London",4.8,25000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['barre', 'pilates']",1,nue | ground,"32 Abbeville Road, London",4.9,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+['pilates'],1,Tempo 301 | E1,"Cygnet St, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'prenatal']",0,Yogarise,"YR Stretz, 248A Streatham High Rd, London",4.8,15000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+"['pilates', 'aerial']",1,Mojo,"149a Clapham High street, Clapham Common, London",4.7,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"['pilates', 'stretching']",1,Absolute Studios,"19 Heathman's Rd, Unit G, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"['pilates', 'barre']",1,Reformer Collective,"98 Balham High Road, London",4.8,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['barre', 'pilates']",1,Disco Barre Studio,"The Factory Unit 5 21-31 Shacklewell Lane, London",4.9,17500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['pilates', 'yoga']",1,Repose,"Repose Space Kensington, 40 Kensington High Street, London",4.9,12500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'prenatal']",1,Mind and Motion,"16 Streatham High Road, Streatham, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,The Life Centre,"15 Edge St, London",4.7,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,Breeze Yoga,"9 Albemarle Road, Beckenham",4.8,15000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['barre', 'pilates']",1,EVOKE,"307A Seven Sisters Rd, Unit A Rowan Apartments , London",4.8,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['pilates', 'barre']",1,House Of Balance,"28 High St, Chislehurst",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['yoga', 'pilates']",1,triyoga,"Longfield Ave, Unit 30, London",4.8,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'pilates']",1,Guts & Glory,"20 Lettice Street, London",4.9,2500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'low-impact training']",0,Sadhana Yoga & Wellbeing,"91 St John's Hill, London",4.7,30000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+['pilates'],1,Reformcore,"90 Upper Street, London",4.8,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,REVIVE,"45 Balham High Road, London",4.9,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,Hot Yoga Brixton,"372 Coldharbour Lane, London",4.8,15000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['low-impact training', 'strength training']",0,Sweat by BXR,"Level 25, 22 Bishopsgate, London",4.8,17500,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+['pilates'],1,Bootcamp Pilates,"4 Red Lion St, Richmond",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'personal training']",1,Tempo 301 | E8,"Unit 1, Great Eastern Buildings, Reading Lane, London",4.8,30000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+['pilates'],1,Core LDN,"341 Upper Richmond Road West, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['barre', 'pilates']",1,Barrecore,"18 Kensington Church St, London",4.8,25000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['yoga', 'pilates']",1,The Space,"Unit 3B, 9 Park Hill Clapham, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'barre']",1,The Proud Project,"227-229 Chiswick High Road, London",4.9,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+['pilates'],1,Range Reformer Pilates,"12 Marshgate Lane, Stratford, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,50 Hill Rise,"Hill Rise, Richmond",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['dance', 'barre']",0,Off The Rails Studio,"Unit 8 8 Grant Road Clapham Junction , London",4.9,5000,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"['pilates', 'yoga']",1,The Loft Pilates Studio,"4 Jaggard Way, London",4.9,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'pilates']",1,Element Fitness,"1 Estreham road, London",4.9,12500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'barre']",1,Form Studios,"77 Lonsdale Rd, A, London",4.8,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['yoga', 'pilates']",1,Yoga at The ARC,"98b Saint Paul Street, London",4.9,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,The Yoga Quarter,"8 Hornsey St, London",4.7,17500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'yoga']",0,Strong and Bendy,"The Trowbridge Centre, 1 Trowbride Road, London",4.9,12500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['pilates', 'prenatal']",1,Breathe Studio,"Islington House 313-314 Upper Street, Suite 7, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+['pilates'],1,Reformcore,"1, 3 Arches Ln, Station Circus, Nine Elms, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'barre']",0,The Yoga Bar,"21 Paradise Rd, London",4.9,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"['yoga', 'pilates']",1,SHIVA SHAKTI STUDIOS,"137 Tottenham Lane, London",4.9,12500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,Fold. Yoga,"Fold Yoga London, 97 Green Lanes, London",4.8,12500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'stretching']",1,Body Works West,"11 Lambton Pl, London",4.7,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"['yoga', 'pilates']",1,Hot Yoga Shoreditch (formerly Yoga Union),"53 East Rd, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['barre', 'pilates']",1,Barrecore,"49 High Street Wimbledon, Lower Ground Floor, London",4.8,15000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['yoga', 'pilates']",1,Yoga Rocks,"481 a-b Green Lanes Palmers Green, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'sports recovery']",1,APPI Clinics,"Hampstead, 2B Heath Hurst Road, London",4.9,5000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'stretching']",0,moreyoga,"7 Chivers Passage, Ram Quarter, Wandsworth, London",4.8,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"['yoga', 'pilates']",1,Renaissance Yoga and Wellbeing,"Tara Terrace Mantle Rd, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'yoga']",1,APPI Clinics,"Wimbledon Village, 1 Thornton Road, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'strength training']",0,Substation Brixton Ltd,"Lyham Road, London",4.8,7500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['gym time', 'swimming']",0,Fitness First,"55 Baker St, London",4.8,15000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+['pilates'],1,Myoset Classes,"2 Clove Crescent, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Phoenix Yoga,"228 Upper Richmond Road,, Putney",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"4 Elephant and Castle, New Lion Way, London",4.7,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'yoga']",1,Goji | Pilates & Yoga Clapham,"Goji Pilates & Yoga Studio - Clapham Old Town, 11 Old Town, London",4.9,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"275 Balham High Road, London",4.7,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,Hello Studio,"330 Hornsey Rd Finsbury Park, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Pi Studios,"Ransomes Dock Business Centre, 35-37 Parkgate Rd, London",4.9,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['dance', 'aerial']",0,The Body People,"9 Copper Street, London",4.9,1000,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+"['pilates', 'strength training']",1,Sopers House LTD,"Sopers Road, Cuffley",4.9,1000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,MoreYoga,"Wickford Way, Walthamstow, London",4.7,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Everybody Reformer,"325 Upper Elmers End Road, Beckenham",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Yonder Studio,"4 - 6a Hookers Road, London",4.9,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'strength training']",1,Core Kensington,"375 Kensington High St, London",4.7,17500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Dragonfly Yoga,"22A to 24 Sydenham Road Sydenham, London",4.8,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Sculpt Studio Fitness Ltd,"54 Hayes Street, Bromley",4.9,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'prenatal']",1,Ten Health & Fitness,"2-4 Exmoor St, London",4.7,20000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+['pilates'],1,DropPilates,"DropGym Mill Hill, 54 The Broadway,, London",4.9,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'prenatal']",1,Ten Health & Fitness,"38 Hatton Garden, Lower Ground Floor, London",4.7,27500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"['dance', 'aerial']",0,The Factory Fitness & Dance Centre LTD,"407 Hornsey Rd, London",4.8,5000,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+"['gym time', 'strength training']",0,Gymbox,"123 Victoria Street, London",4.7,7500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['gym time', 'strength training']",0,Gymbox,"12a Leather Ln, London",4.7,5000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'barre']",0,Light Centre,"49 Marylebone High St, Marylebone, London",4.8,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"['yoga', 'pilates']",1,Hot Yoga Essex,"228B High Rd, Loughton",4.8,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Snap Fitness,"130-138 Newington Butts, London",4.8,5000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'pilates']",1,MoreYoga,"Unit B2 13 Atkins Square Dalston Lane, London",4.7,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"Unit F, Naomi Street, Greenland Place, London",4.8,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"357 Norwood Road, London",4.8,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Ten Health & Fitness,"6 Duke Street St James's, London",4.6,25000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,MoreYoga,"47 Liberty Bridge Road, London",4.7,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'prenatal']",1,Ten Health & Fitness,"83 Great Titchfield St, London",4.8,15000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Serenity Space,"205 Merton Rd, London",4.7,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,ZenW2 Collective,"Zenw2 Wellness Collective, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'strength training']",1,High Vibe,"6 Melbourne Grove, London",4.8,2500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['stretching', 'yoga']",0,MoreYoga,"12 Birkbeck Mews, London",4.8,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"['gym time', 'strength training']",0,Topnotch Gyms,"Dufour's Place, London",4.8,2500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'pilates']",1,Kindred Yoga,"Unit D Norfolk house, Brookmill Road, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'stretching']",1,Absolute Studios,"77A College Road, London",4.9,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"['yoga', 'pilates']",1,MoreYoga,"49 Tower Bridge Rd, London",4.7,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"199 Haggerston Road, London",4.7,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Heba Pilates,"228 Upper Richmond Road, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'prenatal']",1,Ten Health & Fitness,"119-121 Middlesex St, London",4.7,30000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,moreyoga,"12 Lambarde Square East Greenwich, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"7 Horselydown Lane, London",4.7,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Fitness First,"279-291 Balham High Road, London",4.6,7500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'pilates']",1,Yogarise,"27 Beethoven Street, London",4.7,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'strength training']",1,Trent Park Pilates,"Bramley Rd,Trent Park Equestrian Centre, London",5.0,1000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'yoga']",1,YMCA at One KX,"120 Cromer St, London",4.6,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"114 Falcon Road, London",4.7,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"40 Queen St, London",4.6,17500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,Fold Leyton,"691 High Road Leyton, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"MoreYoga, London",4.7,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,Soma Space,"3 Honor Oak Park, London",4.9,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Instagym,"193-201 Stoke Newington High Street, London",4.9,1000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'pilates']",1,The Good Rooms,"56 Muswell Hill, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Southbank Club,"Southbank Club, 124-130 Wandsworth Rd, London",4.6,5000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['gym time', 'strength training']",0,Gymbox,"Unit 15 Dickens Yard, Longfield Ave, London",4.8,2500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'meditation']",0,MoreYoga,"21 Essex Road, London",4.6,7500,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Collective Pilates,"64 Porchester Rd, London",4.7,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,Gymbox,"71 Lombard St, London",4.6,2500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['gym time', 'strength training']",0,Fitness4Less,"Cambridge Heath Road, London",4.7,1000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['gym time', 'strength training']",0,Fitness First,"105-109 Salisbury Road, Kilburn, London",4.7,2500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['gym time', 'strength training']",0,Fitness First,"6 Bedford St, Covent Garden, London WC2E 9HD, London",4.7,5000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'pilates']",1,hum yoga & meditation,"Unit 7, Block M Lyell Street, London",4.9,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'yoga']",1,East of Eden,"12-15 Hatherley Mews, London",4.7,22500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,MAD | Chelsea,"77 King's Road, London",4.9,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,MoreYoga,"Copperas Street Unit 4, London",4.7,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'yoga']",1,Physico,"51 Beckenham Lane, Bromley",4.9,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Fitness First,"Blue Star House, 234-244, Stockwell Road, London",4.6,5000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['strength training', 'cycling']",0,Majestic Fitness,"1 Dairy Court Orchard Road, Richmond, London",4.8,2500,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+['pilates'],1,Refine Pilates Limited,"2nd Floor, 13 Artillery Lane, London",4.8,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,Gymbox,"Westfield Stratford City6a Chestnut Place, London",4.6,5000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'meditation']",0,MoreYoga,"4-6 High Rd, London",4.7,5000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'pilates']",1,Guardians Studios,"Camden Market stables, London",4.9,1000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Core Clapton,"161 Northwold Rd, London",4.7,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"22 Stoke Newington High St, London",4.6,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'swimming']",0,Fitness First,"26 Hammersmith Grove, London",4.7,5000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"['yoga', 'pilates']",1,Moreyoga,"Unit 7, Weaver Walk, Wembley, London",4.7,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Gymbox,"100 High Holborn, London",4.6,2500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['gym time', 'strength training']",0,Fitness First,"106 Fenchurch Street, London",4.7,2500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['pilates', 'strength training']",1,Oncore,"65 Clapham Park Rd, London",4.8,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,MoreYoga,"Booth Court Thurston Road Unit 7, London",4.7,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['swimming', 'gym time']",0,Fitness First,"47 Bishopsgate, London",4.7,5000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"['gym time', 'strength training']",0,Anytime Fitness,"361, 373 City Rd, London",4.8,1000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+['pilates'],1,Peak Pilates,"1A Hall Lane, London",4.8,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['cycling', 'strength training']",0,FitFor,"116 Lordship Ln, London",4.5,7500,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'barre']",0,Oru Space,"7 Throwley Way, Sutton",4.9,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"['yoga', 'pilates']",1,Light Centre,"9 Eccleston St, London",4.6,17500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'stretching']",0,Synergy Personal Training Studio,"Unit 21 , Cranford Way, London",4.8,1000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+"['strength training', 'cycling']",0,H2 Clubs,"H2 Clubs Victoria, 10 Bressenden Pl, London",4.6,10000,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+['pilates'],1,Reform Physio and Pilates,"3 Hildreth Street Mews, London",4.8,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,FS8,"23-35 Great Titchfield St., London",4.6,2500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,Fitness First,"7 Streatham High Rd, London",4.6,7500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['swimming', 'gym time']",0,Fitness First,"Thomas More Street, London",4.7,5000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"['strength training', 'pilates']",1,The Shredquarters,"The Shredquarters Wandsworth, Meridian House, Battersea Reach, York Road, London",4.8,500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,MIND Yoga and Pilates,"53 Dartmouth Road, London",4.9,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"223 Vauxhall Bridge Road, London",4.6,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Gymbox,"Westfield Shopping Centre, London",4.6,2500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'meditation']",0,Mica Yoga,"16-18 Gibbon Road, London",4.9,500,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Fitness First,"15 Great Marlborough St, Soho, London W1F 7HR, London",4.7,5000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['pilates', 'strength training']",1,High Vibe,"62 Elm Park, London",4.8,1000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['strength training', 'pilates']",1,Body By Ciara,"58a Hillfield Park Mews, London",5.0,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['strength training', 'cycling']",0,GYM NATION,"26 Druid St, London",4.7,1000,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['strength training', 'pilates']",1,Bourne Fitness,"Grange Mills Weir Road, Unit 6, London",5.0,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,MoreYoga,"15 Marshall Street, London",4.6,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'dance']",0,Crouch End Fitness Centre,"184 Tottenham Ln,, London",4.8,1000,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,MoreYoga,"331 Ballards Ln, North Finchley, London",4.8,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'barre']",1,Studio Soma,"36 Crimscott Street, London",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+['pilates'],1,Flowing Body Pilates,"82 Stoke Newington High St, London",4.7,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'barre']",0,MAD Fitness Studio,"5 Main Road, Sidcup",4.9,500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+"['gym time', 'yoga']",0,Fit This,"3 Reading Lane Hackney, London",4.7,500,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+['pilates'],1,Stone Fitness,"10 Kendrick Mews, London",4.8,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Light Centre,"36 St Mary at Hill, London",4.6,17500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'pilates']",1,TRIBES,"96A Clifton Hill, London",4.9,500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'boxing']",1,Posture London,"107 Station Road, West Wickham",5.0,100,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,CrossFit Putney,"243-251 Putney Bridge Road, London",4.8,1000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['cycling', 'strength training']",0,Spin,"386 Lee High Road, London, London",4.9,500,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,The Yoga Mela Ltd,"239 Selhurst Road, London",4.8,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'cycling']",0,Bounce Gym,"The CrescentWimbledon Park, London",4.9,1000,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['strength training', 'boxing']",0,Lifelab,"Foxbury Avenue, Chislehurst BR7 6SD, UK, Chislehurst",5.0,100,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+"['swimming', 'pilates']",1,The MAQAM,"69 Wrentham Avenue Queen's Park, London",4.7,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"['strength training', 'boxing']",0,FitBirds,"7 Ledrington Rd, London",5.0,500,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,bhuti,"Bingham Riverhouse, 61-63 Petersham Rd , Richmond",4.7,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Gymbox,"201A Old Street, London",4.6,2500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+['pilates'],1,Innersculpt Pilates,"63 High Street, West Wickham",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+['pilates'],1,Reformer LDN,"Reformer LDN, Unit 1.2, 2B, Shoreditch Exchange, Rosewood Building, Gorsuch Pl, London",4.8,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,Basebox,"4 New Pond Parade, West End Road, Ruislip",4.9,1000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,MoreYoga,2A Bayham St,4.6,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'yoga']",1,Blanc Space Studios,"130 Walham Green Court, London",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'yoga']",0,SWeat19,"265-269 Wimbledon Park Road, London",4.9,1000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['yoga', 'barre']",0,MakeYoga Ltd,"64 Highgate High Street, London",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"['yoga', 'pilates']",1,Motion London,"Studio 17, Cornerstone Studios, 1 Addington Square, London",4.8,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Reform Yourself Pilates,"Room 2 Davenports Hair & Beauty Salon 23a High Street, Dartford",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+['pilates'],1,Enmei,"143-145 Fulham Road, London",4.8,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,MoreYoga,"Unit 2, Delta Point Wellesley Road, Croydon",4.8,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,Deva Yoga,"12, Belmont Parade, Green Lane, Chislehurst",4.9,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'pilates']",1,MoreYoga,"784 Green Lanes, London",4.7,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'strength training']",0,Loom Club,"Loom Club Unit 23 The Ivories, London",4.8,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['strength training', 'personal training']",0,Built London,"Unit 113, Anerley Works, 183a Anerley Rd, London",5.0,500,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,Fitness First,"95 Queen Victoria St, London",4.6,1000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['pilates', 'personal training']",1,Flex Pilates Reformer,"8 Sienna Plac, Honor Oak Park, London",4.9,500,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,FS8,"First Floor, 1-7 Morris Place, Finsbury Park, London",4.7,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+['pilates'],1,Hypecore Pilates,"47-50 Margaret St, 1st Floor, London",4.8,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'pilates']",1,F.I.T.T STUDIO,"26 Aylmer Parade, London",5.0,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['strength training', 'cycling']",0,MyPT Studio,"40-44 St Georges Walk, Croydon",4.8,1000,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['strength training', 'yoga']",0,YMCA Club,"YMCA Club, London",4.4,2500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['strength training', 'boxing']",0,Stars Gym,"Hester Rd 8, 5, Albion Riverside Building,, London",4.7,2500,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'yoga']",1,Canada Water Studios,"40 Surrey Quays Rd, Canada Water Studios, Vancouver House, London",4.6,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'yoga']",1,Studio Fid,"Ride Republic 709 Fulham Rd, London",4.8,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'low-impact training']",1,Club Pilates,"20 Great Guildford Street, London",4.7,100,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"['meditation', 'yoga']",0,SANCTUM,"Holy Trinity Church, Prince Consort Road, South Kensington, London",4.9,100,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Wembley Fitness,"341 High Road, Wembley",4.7,100,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+['pilates'],1,NY Pilates Studio London,"253 Kilburn Lane, Unit 2, The Linen House, London",4.7,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,Kings Sport & Wellness Gym,"King's College London, 135 Borough High Street, London",4.6,500,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+['pilates'],1,Better Flow,"Hackney Road, London",5.0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'stretching']",1,Club Pilates,"423 North End Road, London",4.7,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"['strength training', 'dance']",0,Anytime Fitness,"222 Fulham Road, London",4.7,1000,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Temple of Strength,"21 High Street, London",4.8,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'cycling']",0,Jubilee Hall Gym,"The Piazza, 1-7 Covent Garden, London",4.4,2500,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Alcheme Wellbeing,"23-25 Brighton Road, Surbiton",4.8,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'strength training']",1,Clifford Studios,"173-175 Church Road, London",4.8,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+['pilates'],1,Vivo Pilates,"Unit 208 Harbour Yard, Chelsea Harbour, London",5.0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'pilates']",1,FitBirds,"Quakers Meeting House 34 Sunderland Road, London",5.0,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,Studio Moon Yoga & Pilates,"160 Ravenscroft Road, Beckenham",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Zoe Hodgson Pilates,"87 Douglas Road, Surbiton",5.0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'prenatal']",1,Pilates Body Studio,"88 The Mill Bexley High Street, Bexley, Bexley",4.9,100,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+['pilates'],1,LifeBody,"78 Church Road, London",5.0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,"New River Sport, Tennis & Fitness","New River Sport, Tennis & Fitness, White Hart Lane, London",4.6,100,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'barre']",0,"Ánimo N16, Abney Park","Harriet Delph Room, Abney Park Cafe, Stoke Newington High Street, London",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+['pilates'],1,Exhale Pilates Primrose Hill,"Ground Floor, 1 Whittlebury Mews West, London",4.8,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'barre']",1,Volonté Energy Studio,"10 Mortimer Street, London",4.6,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+['pilates'],1,Physio On The Green,"Swan Mews, London",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'cycling']",0,Park View Health Clubs,"Heath Parade,, 6 Grahame Park Way, London",4.6,500,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'yoga']",1,JCW Holistic Fitness,"St. Andrew's Church, St Andrew’s Church Parish Of Alexandra Park, London",4.7,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'dance']",0,Unite In Fitness,"9 Queen Anne's Place, Enfield",4.9,100,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,Anytime Fitness,"Croxley Business Park Hatters Lane, Watford",4.7,100,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['outdoors', 'strength training']",0,FitBirds (Mayow Park),"79 Mayow Rd, London",4.9,500,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['pilates', 'yoga']",1,Zoe Hodgson Pilates,"Ember Lane, Esher",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'strength training']",0,Tula Balance,"V22, The Priory, Church Hill, Orpington",4.9,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['gym time', 'pilates']",1,Energie Fitness,"Broomfield Ln, London N13 4EY, UK, London",4.6,100,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+['pilates'],1,KARVE,"198 Kensington High Street, London",4.9,17500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'barre']",0,Pilates and Tara,"136 Hither Green Lane, London",5.0,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+"['outdoors', 'strength training']",0,One Element Docklands,"Thames Barrier Park , London",4.9,100,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,Buzz Gym,"1 Suffolk Ln, London",4.6,100,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['strength training', 'pilates']",1,Integrated Movement Studio,"Integrated Movement Studio, Unit 1 Tesla Court, Warple Way, London",4.8,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['yoga', 'pilates']",1,SF Studios London,"5 Ella Mews, London",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+['pilates'],1,Mindful Pilates Studio,"50 Hill Rise, Richmond",4.8,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'yoga']",0,FitnessVIP,"36 England's Lane, London",4.8,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['gym time', 'strength training']",0,Fitness4Less,"23-29 Great Suffolk Street, London",4.6,100,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['yoga', 'dance']",0,TRIPSPACE,"339 Acton Mews, London",4.8,30000,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"['yoga', 'strength training']",0,Mind LDN,"Zedwell HotelB1 Level Great Windmill Street, London",4.8,97,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+['pilates'],1,Everybody Reformer,"289 Lower Addiscombe Road, Croydon",5.0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'cycling']",0,Park View Health Clubs,"262 Green Lanes, London",4.6,500,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['gym time', 'strength training']",0,Welcome Gym,"Welcome Gym, Gander Green Lane, Sutton",4.7,100,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+['pilates'],1,Present Pilates,"2 Saint John's Road, London",4.9,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'strength training']",1,Sertsari Private Training Studio,"13-17 Princes Road, Richmond",4.8,84,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"['strength training', 'yoga']",0,Park View Health Clubs,"183-191 Ballards Ln, London",4.5,500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+['pilates'],1,Reformcore,"107 King's Road, London",4.8,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+['pilates'],1,The Hope Centre UK,"109 Tierney Rd, London",4.7,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'yoga']",0,The Bridge,"73-81 Southwark Bridge Rd,, London",4.7,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['strength training', 'boxing']",0,Mwah Fitness,"Kent Cricket club, Worsley Bridge Rd, Beckenham",5.0,59,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+"['dance', 'pilates']",1,ID Studios London,"Dickens Yard Longfield Avenue Ealing, Unit 32, London",4.8,73,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"['pilates', 'yoga']",1,Truform Studio,"248 High Street, Beckenham",4.8,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"['strength training', 'yoga']",0,Anytime Fitness,"77-83 The Broadway, London (West Ealing), Greater London, W13 9BP, London",4.4,100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"['strength training', 'dance']",0,((BOUNCE)),"Thurlstone Road, Ruislip",4.8,68,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+['pilates'],1,Elite Reformer Pilates,"24 Hill Crest, Potters Bar",4.8,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'yoga']",0,The Mill Gym and Studio,"Mill Hill School, Walker House, The Ridgeway,, London",4.7,67,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+['pilates'],1,Elite Reformer Pilates,"16-17 Cockfosters Parade, Barnet",5.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['yoga', 'dance']",0,Dance With Me @The Hamptons,"Hamptons Estate, Worcester Park, London",4.8,21,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"['pilates', 'barre']",1,All Abilities Pilates,"All Abilities Pilates, 140 Stanley Park Road, Carshalton",4.7,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"['gym time', 'strength training']",0,THE REP ROOM,"UNIT 2 Stockbridge CI Hammond Street Cheshunt Waltham Cross, London",4.9,27,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+['pilates'],1,New Direction Studio,"60 Queen's Road, Buckhurst Hill",4.4,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"['dance', 'pilates']",1,The Cherish Club,"Bridgeman Street, Westminster, London",4.9,23,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"['strength training', 'gym time']",0,The Edge Training,"Willows Activity Farm, Coursers Road, St. Albans",4.9,27,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"['strength training', 'low-impact training']",0,Sylvestrian Leisure Centre,"Sylvestrian Leisure Centre, College Pl, London",4.3,100,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"['strength training', 'pilates']",1,Frame,"29 New Inn Yard, London",4.6,30000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
